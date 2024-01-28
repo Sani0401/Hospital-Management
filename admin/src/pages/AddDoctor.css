@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,600&display=swap');
+
+.mainContianer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #3468C0;
+    height: 100vh;
+    width: 100%;
+}
+
+.doctorAddContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid grey;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+
+.doctorAddContainer input {
+width: 360px;
+height: 40px;
+margin: 10px;
+}
+
+.addTitle{
+    color: #365486;;
+    font-family: 'Poppins', sans-serif;
+}
+
+.dropdown-container{
+    width: 360px;
+}
+
+
+.dropdown-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}

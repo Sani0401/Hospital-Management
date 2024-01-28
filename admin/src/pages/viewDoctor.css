@@ -1,0 +1,6 @@
+.mainDoctorCardContainer1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Align items horizontally */
+    gap: 20px; /* Add spacing between grid items */
+}

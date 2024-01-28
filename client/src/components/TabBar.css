@@ -1,0 +1,28 @@
+.Home{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.home-image{
+    height: 25px;
+    width: 25px;
+}
+
+.paraImage{
+    position: relative;
+    top: 5px;
+    margin-left: 3px;
+}
+
+#Doctor{
+    position: relative;
+    top: 9px;
+    margin-left: 5px;
+}
+
+.mainTab{
+    height: 300px;
+}

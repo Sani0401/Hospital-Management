@@ -1,0 +1,37 @@
+.mainHomeContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.div-maker{
+    display: flex;
+    width:100%;
+   
+}
+.TabBar{
+    flex: 0.5;
+    width: 50px;
+    border: 1px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    height: 100vh;
+}
+
+.Body{
+flex: 2;
+border: 1px solid grey;
+}
+
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.menuImage{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}

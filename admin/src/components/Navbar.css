@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,600&display=swap');
+
+.mainNavbarContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin: 15px;
+}
+
+.ambulance-contact{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ambulance-image{
+    height: 60px;
+    width: 60px;
+}
+
+.ambulance-name{
+    position: relative;
+    top: 10px;
+}
+
+.ambulance-contact-number{
+    color: grey;
+}
+.ambulance-contact-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.main-line-contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.emergency-contact-number{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.lower-line{
+    height: 10px;
+    color: grey;
+    position: relative;
+    bottom: 5px;
+}
+
+.emergency-image{
+    position: relative;
+    bottom: 10px;
+    height: 55px;
+    width: 55px;
+}
+
+
+.consult-doctor-image{
+    height: 55px;
+    width: 55px;
+    position: relative;
+    bottom: 7px;
+}
+
+
+.consult-doctor{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 5px;
+}
+
+.mainLine-image{
+    height: 55px;
+    width: 55px;
+}
+
+.greet-user{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.greet-div{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: grey;
+}
+
+.greetingRobo{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    bottom: 10px;
+}

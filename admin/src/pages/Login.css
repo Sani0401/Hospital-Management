@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,600&display=swap');
+.adminMainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.imageSignUp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginQuotes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+}
+.title{
+    color: #3468C0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.login{
+    color: #365486;
+    right: 20px;
+}
+.loginButton{
+    width: 360px;
+    height: 40px;
+}
+.footer{
+    position: relative;
+    top: 45px;
+    color: #365486;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    width: 400px;
+}
+.horizontalRow{
+    width: 400px; /* Set the width to 100% to span the entire container */
+    height: 3px; /* Set the height to your desired size */
+    margin-top: 35px;
+    background-color: #365486;
+  }
+
+.loginQuotes input{
+    width: 360px;
+    height: 40px;
+}
+
+.logoImage{   
+height: 550px;
+width: 100%;
+position: relative;
+right: 50px;
+}

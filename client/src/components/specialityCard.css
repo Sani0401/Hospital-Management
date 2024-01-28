@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,600&display=swap');
+
+.mainCardContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.image{
+    width: 100px;
+    width: 100px;
+   
+}
+
+.specialityButton{
+    margin: 20px;
+}
+
+.specialityDescription{
+    color: grey;
+    margin-top: 10px;
+ 
+}
+
+.specialityTitle{
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.imageContainer{
+    height: 100px;
+}
