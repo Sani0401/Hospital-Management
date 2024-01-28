@@ -17,9 +17,9 @@ The Hospital Appointment Management System is a web application designed to faci
 
 2. Install dependencies for both frontend and backend:
 `cd hospital-appointment-management`
-## Client
+ - Client
 `cd client && npm install`
-## Server
+- Server
 `cd server && npm install`
 3. Configure environment variables:
 - Set up environment variables for MongoDB connection, server port, etc., in a `.env` file in the server directory.
